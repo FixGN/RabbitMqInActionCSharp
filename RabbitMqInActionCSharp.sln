@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter2", "Chapter2", "{41D5C45A-5BC4-4C44-B085-BA2B7AEF34CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqInActionCSharp.Chapter2.Publisher", "RabbitMqInActionCSharp.Chapter2.Publisher\RabbitMqInActionCSharp.Chapter2.Publisher.csproj", "{25AF397F-2495-46B7-A75F-F3E8B22B6613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25AF397F-2495-46B7-A75F-F3E8B22B6613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AF397F-2495-46B7-A75F-F3E8B22B6613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AF397F-2495-46B7-A75F-F3E8B22B6613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AF397F-2495-46B7-A75F-F3E8B22B6613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{25AF397F-2495-46B7-A75F-F3E8B22B6613} = {41D5C45A-5BC4-4C44-B085-BA2B7AEF34CD}
+	EndGlobalSection
+EndGlobal

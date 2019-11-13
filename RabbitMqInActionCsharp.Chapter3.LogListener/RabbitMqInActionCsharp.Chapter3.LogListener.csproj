@@ -3,6 +3,8 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.0</TargetFramework>
+        <AssemblyName>RabbitMqInActionCsharp.Chapter3.LogListener</AssemblyName>
+        <RootNamespace>RabbitMqInActionCsharp.Chapter3.LogListener</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

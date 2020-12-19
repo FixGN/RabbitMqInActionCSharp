@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqInActionCsharp.Chap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqInActionCsharp.Chapter3.LogListener", "RabbitMqInActionCsharp.Chapter3.LogListener\RabbitMqInActionCsharp.Chapter3.LogListener.csproj", "{5B18025F-3A2E-43A8-9AF2-072F1D9D9B05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter4", "Chapter4", "{4088F9E6-E7CF-47D6-8428-194832C05288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqInActionCsharp.Chapter4.AlertConsumer", "RabbitMqInActionCsharp.Chapter4.AlertConsumer\RabbitMqInActionCsharp.Chapter4.AlertConsumer.csproj", "{EBF1D228-4CD5-43E3-8200-AA60A3F9C205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,10 @@ Global
 		{5B18025F-3A2E-43A8-9AF2-072F1D9D9B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B18025F-3A2E-43A8-9AF2-072F1D9D9B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B18025F-3A2E-43A8-9AF2-072F1D9D9B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF1D228-4CD5-43E3-8200-AA60A3F9C205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF1D228-4CD5-43E3-8200-AA60A3F9C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF1D228-4CD5-43E3-8200-AA60A3F9C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF1D228-4CD5-43E3-8200-AA60A3F9C205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{25AF397F-2495-46B7-A75F-F3E8B22B6613} = {41D5C45A-5BC4-4C44-B085-BA2B7AEF34CD}
@@ -47,5 +55,6 @@ Global
 		{70829474-BE36-4CC8-9B63-32259F61DA92} = {41D5C45A-5BC4-4C44-B085-BA2B7AEF34CD}
 		{84ADEAE1-DBCF-455C-90C5-066C01E991EE} = {9D17C799-0389-4A33-AD3D-334C8E89DA76}
 		{5B18025F-3A2E-43A8-9AF2-072F1D9D9B05} = {9D17C799-0389-4A33-AD3D-334C8E89DA76}
+		{EBF1D228-4CD5-43E3-8200-AA60A3F9C205} = {4088F9E6-E7CF-47D6-8428-194832C05288}
 	EndGlobalSection
 EndGlobal
